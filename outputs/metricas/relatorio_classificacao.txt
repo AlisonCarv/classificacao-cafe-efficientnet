@@ -1,0 +1,12 @@
+Acurácia: 0.9775
+
+              precision    recall  f1-score   support
+
+        Dark     1.0000    0.9300    0.9637       100
+       Green     1.0000    1.0000    1.0000       100
+       Light     1.0000    0.9800    0.9899       100
+      Medium     0.9174    1.0000    0.9569       100
+
+    accuracy                         0.9775       400
+   macro avg     0.9794    0.9775    0.9776       400
+weighted avg     0.9794    0.9775    0.9776       400
