@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Dataset
+dataset/
+datasets/
+coffee_bean/
+Kaggle Coffee Bean Dataset/
+*.zip
+
+# Modelos e checkpoints grandes
+outputs/checkpoints/*
+outputs/modelos/*.keras
+outputs/modelos/*.h5
+
+# Sistema
+.DS_Store
+Thumbs.db
