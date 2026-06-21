@@ -24,7 +24,7 @@ O projeto utiliza o **Coffee Bean Dataset Resized 224x224** para classificar ima
 
 * **Repositório do projeto:** https://github.com/AlisonCarv/classificacao-cafe-efficientnet
 * **Dataset utilizado:** https://www.kaggle.com/datasets/gpiosenka/coffee-bean-dataset-resized-224-x-224
-* **Vídeo de apresentação:** COLE_AQUI_O_LINK_DO_VIDEO
+<!-- * **Vídeo de apresentação:** COLE_AQUI_O_LINK_DO_VIDEO -->
 
 ---
 
